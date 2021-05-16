@@ -1,3 +1,3 @@
 # ournewproject
 
-! [admin screenshot] (newprojectREADME.png)
+![admin screenshot](newprojectREADME.png)
